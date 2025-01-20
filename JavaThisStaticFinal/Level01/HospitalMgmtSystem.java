@@ -10,6 +10,10 @@ public class HospitalMgmtSystem {
         System.out.println("\n");
         def.displayDetails();
 
+        if(abc instanceof Patient && def instanceof Patient){
+            System.out.println("Yes dholu and bholu are patient");
+        }
+
     }
 }
 class Patient {

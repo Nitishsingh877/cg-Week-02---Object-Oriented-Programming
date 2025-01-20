@@ -11,6 +11,9 @@ public class ShoppingCartSystem {
         wheel.DisplayDetails();
         wheel.getTotalPrice();
 
+        if(nirma instanceof Product) {
+            System.out.println("yes nirma is instance of Product");
+        }
     }
 }
 

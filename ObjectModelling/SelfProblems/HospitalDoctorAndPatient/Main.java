@@ -40,7 +40,7 @@ public class Main {
         p1.getDoctorDetails();
         p2.getDoctorDetails();
         p3.getDoctorDetails();
-        
+
         //consulations
         //valid
         a.Consult(p1);

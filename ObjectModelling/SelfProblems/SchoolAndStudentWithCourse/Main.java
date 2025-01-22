@@ -27,7 +27,7 @@ public class Main {
         fullStack.getCourseDetails();
         aiml.getCourseDetails();
 
-        
+
         //display course studnt
         nitish.displayStudentCourseDetails();
         siddhu.displayStudentCourseDetails();

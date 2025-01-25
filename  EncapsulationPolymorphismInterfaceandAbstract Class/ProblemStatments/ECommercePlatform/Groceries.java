@@ -16,7 +16,7 @@ public class Groceries extends Product implements  Taxable{
 
     @Override
     public String getTaxDetails() {
-        return " for groceries is @5% is "+ calculateTax();
+        return " for groceries is at rate 5% is "+ calculateTax();
     }
 
     @Override
